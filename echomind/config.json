@@ -1,0 +1,9 @@
+{
+  "capture_microphone": true,
+  "capture_system_audio": true,
+  "chunk_duration": 2,
+  "control_port": 8766,
+  "log_level": "INFO",
+  "openai_api_key": "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",
+  "websocket_port": 8765
+}
