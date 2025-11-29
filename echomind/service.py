@@ -37,7 +37,7 @@ def load_config():
             "chunk_duration": 2,
             "control_port": 8766,
             "websocket_port": 8765,
-            "openai_api_key": "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",  
+            "openai_api_key": "",  
             "log_level": "info",
             "capture_system_audio": True,
             "capture_microphone": True,
